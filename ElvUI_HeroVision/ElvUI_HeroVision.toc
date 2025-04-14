@@ -1,0 +1,10 @@
+    ## Version: 1.0.0
+    ## Title: Proxima [HeroRotation]
+    ## Author: TerrorBlade
+    ## SavedVariables: ProximaHRSettings
+
+    ProximaHR.lua
+    ProximaHR2.lua
+    Utils1.lua
+    Utils2.lua
+    Inf.lua
