@@ -3,6 +3,7 @@
 ## Title: ElvUI_HeroVision
 ## Author: TerrorBlade
 ## SavedVariables: ProximaHRSettings
+## IconTexture: Interface\AddOns\ElvUI_HeroVision\Media\PROXIMAICO2N.png
 
 ProximaHR.lua
 ProximaHR2.lua
