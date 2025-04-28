@@ -1,0 +1,11 @@
+## Interface: 110100
+## Title: HeroRNLib
+## Author: TerrorBlade
+## Version: 1.0
+## SavedVariables: RedneckSaved
+
+HeroRNLib.lua
+HeroRNLib2.lua
+Lib1.lua
+Utils1.lua
+Utils2.lua
